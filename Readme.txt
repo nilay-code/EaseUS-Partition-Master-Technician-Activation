@@ -8,6 +8,7 @@ included yourself:
 %SystemRoot%\System32\drivers\etc
 
 2- Install EaseUS Partition Master.
+Download Link:  https://drive.google.com/drive/folders/1ZzwXPYS0jqy-3kZ0D8LCTeb_VdDQMrSO?usp=sharing
 
 3- Copy the "(x-Bit) EPM Patcher v1.4.exe" app suitable for the architecture of your OS to the
 "EaseUS Partition Master (x.x(if there is version))" installation directory and run it there;
@@ -18,3 +19,5 @@ EaseUS Partition Master is installed, show the path to the exact installation di
 "EaseUS Partition Master (x.x(if there is version))" without any subfolders.
 
 5- Enjoy! ;)
+
+Now you can download the updated version of the software(free trial) from the official website and update the software manually. (No need to active it again)
